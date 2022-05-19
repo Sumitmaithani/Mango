@@ -3,7 +3,7 @@ visit website : https://themango.netlify.app
 
 Mango is a ecommerce website UI design with a Admin pannel with all functionality by using React.js, styled-components and recharts. 
 
-# Getting Started with MekaVerse
+# Getting Started with Mango
 
 `npm i`
 
